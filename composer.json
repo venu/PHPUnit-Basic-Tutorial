@@ -1,0 +1,10 @@
+{
+    "name": "phpunit basic tutorial",
+    "description": "PHPUnit",
+    "require": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {"Venu": "src/"}
+    }
+}
