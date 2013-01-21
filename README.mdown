@@ -1,7 +1,9 @@
 PhpUnit Basic Tutorial
 ======================
-Clone this project
-Install Vendors
+- Clone this project
+- Install Vendors
 
-$ cd vendor/bin/
-$ phpunit UnitTest tests/Venu/CalculatorTest.php
+Test
+----
+- $ cd vendor/bin/
+- $ phpunit UnitTest tests/Venu/CalculatorTest.php
