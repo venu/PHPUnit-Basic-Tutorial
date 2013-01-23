@@ -7,3 +7,10 @@ Test
 ----
 - $ cd vendor/bin/
 - $ phpunit UnitTest tests/Venu/CalculatorTest.php
+
+Test with Installed PHPUnit
+---------------------------
+If you want to use PHPUnit which is installed in your system
+you can run 
+- cd /path/to/project
+- phpunit -c .
